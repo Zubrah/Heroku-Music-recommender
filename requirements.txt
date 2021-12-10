@@ -1,0 +1,6 @@
+Django==2.0
+gunicorn==19.8.1
+pylast==2.2.0
+pytz==2018.4
+six==1.11.0
+whitenoise==3.3.1
