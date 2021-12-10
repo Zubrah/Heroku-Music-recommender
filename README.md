@@ -1,6 +1,23 @@
 # Music recommendation system
 
-This web application enables you to find music recommendations based on your preferences. It uses [Last.fm API](https://www.last.fm/api).
+We all love listening to our favourite music every day. It is pretty hard to find artists or songs similar to our taste and i know for sure ,  we would love a system to do this for us. We have music applications like Spotify that uses content-based and collaborative filtering to recommend us songs similar to what we like.
+
+This code suggests a simple heroku application that shows how the application predicts artists based on the user inputs and return those illustrations!!!!
+
+Hope you habve fun with it.
+
+
+Link to Video Illustration [Video](https://www.loom.com/share/e6c713ae00514516abe07617dfe1301e).
+
+
+Link ot the deployed app : [App](https://music-recommendations.herokuapp.com)
+
+
+
+
+
+
+
 
 ## How to install 
 Python 3 interpreter is required. It's recommended to use virtual environment for better isolation.
