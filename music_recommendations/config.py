@@ -2,5 +2,5 @@ import os
 
 
 class Config:
-    API_KEY = os.environ.get('f90b317d4283fd8ffa8dde164d11ecab')
-    API_SECRET = os.environ.get('69bbbac8dd02ed28b26c9f81b40fc6b5')
+    API_KEY = os.environ.get('e499d21e8cde6ca5308793455fd6c497')
+    API_SECRET = os.environ.get('e499d21e8cde6ca5308793455fd6c497')
