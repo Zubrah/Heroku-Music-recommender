@@ -4,13 +4,13 @@ We all love listening to our favourite music every day. It is pretty hard to fin
 
 This code suggests a simple heroku application that shows how the application predicts artists based on the user inputs and return those illustrations!!!!
 
-Hope you habve fun with it.
+Hope you have fun with it.
 
 
-Link to Video Illustration [Video](https://www.loom.com/share/e6c713ae00514516abe07617dfe1301e).
+Link to Video Illustration [Video Illustration](https://www.loom.com/share/e6c713ae00514516abe07617dfe1301e).
 
 
-Link ot the deployed app : [App](https://music-recommendations.herokuapp.com)
+Link ot the deployed app : [App Link](https://music-recommendations.herokuapp.com)
 
 
 
